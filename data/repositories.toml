@@ -256,6 +256,7 @@ repositories = [
   'github.com/FStarLang/FStar',
   'github.com/GameFoundry/bsf',
   'github.com/gatsbyjs/gatsby',
+  'github.com/Gavesh99324/vidsage',
   'github.com/gchq/CyberChef',
   'github.com/gcushen/hugo-academic',
   'github.com/geopandas/geopandas',
